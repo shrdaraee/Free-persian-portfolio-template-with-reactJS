@@ -7,7 +7,7 @@ This is a free rtl portfolio website template that built with react js and Tailw
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Screenshot.png)
 
 
 ## Run
