@@ -12,7 +12,7 @@ This is a free rtl portfolio website template that built with react js and Tailw
 
 ## Run
 
-Enter the following code in the terminal to access the project
+Use the following code in the terminal to access the project
 
 ```bash
  npm install
