@@ -10,19 +10,32 @@ This is a free rtl portfolio website template that built with react js and Tailw
 ![App Screenshot](Screenshot.png)
 
 
-## Run
+## Run Locally
 
-Use the following code in the terminal to access the project
-
-```bash
- npm install
-```
-
-Then use the following code to run the project on localhost
+Clone the project
 
 ```bash
- npm start
+  git clone https://github.com/shrdaraee/Free-persian-portfolio-template-with-reactJS/
 ```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
 
 ## 🚀 About Me
 I'm a front end developer and web designer 
