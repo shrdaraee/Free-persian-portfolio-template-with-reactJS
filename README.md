@@ -15,7 +15,7 @@ This is a free rtl portfolio website template that built with react js and Tailw
 Clone the project
 
 ```bash
-  git clone https://github.com/shrdaraee/Free-persian-portfolio-template-with-reactJS/
+  git clone https://github.com/shrdaraee/Free-persian-portfolio-template-with-reactJS.git
 ```
 
 Go to the project directory
