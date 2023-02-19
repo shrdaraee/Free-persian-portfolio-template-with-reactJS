@@ -1,5 +1,5 @@
 
-## Free persian portfolio template with reactJS 
+## persian portfolio template with reactJS 
 
 Hello everyone,
 
