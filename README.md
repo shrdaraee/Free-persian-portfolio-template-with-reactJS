@@ -39,7 +39,7 @@ Start the server
 
 
 ## 🚀 About Me
-I'm a front end developer and web designer 
+I'm front end developer and web designer 
 
 
 
